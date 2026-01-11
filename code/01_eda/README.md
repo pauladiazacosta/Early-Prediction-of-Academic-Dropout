@@ -1,7 +1,7 @@
 ## Exploratory Data Analysis (EDA)
 
-The exploratory data analysis was carried out interactively during the initial phase of the project using R and RStudio.
+The exploratory data analysis was carried out during the initial phase of the project using R and RStudio.
 
-The analysis focused on understanding variable distributions, detecting inconsistencies and guiding subsequent preprocessing and modelling decisions.
+This step was mainly exploratory and iterative, focusing on understanding variable distributions, identifying inconsistencies and guiding subsequent preprocessing and modelling decisions.
 
-No standalone script was generated for this step.
+As the analysis was performed in an exploratory manner, no single consolidated script is provided for this step.

@@ -48,7 +48,7 @@ Main R packages used:
 
 ## Reproducibility
 The analysis is fully reproducible.  
-Once the dataset is available, the scripts can be executed in the order provided in the `code/` folder to reproduce the results reported in the thesis.
+Once the dataset is available, the scripts can be executed by following the numerical order of the folders in the `code/` directory.
 
 ## Author
 Bachelor’s Thesis  

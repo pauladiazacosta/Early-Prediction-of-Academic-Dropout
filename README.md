@@ -25,7 +25,9 @@ code/
  ├── 02_logistic_regression.R
  ├── 03_decision_tree.R
  ├── 04_random_forest.R
- └── 05_clustering.R
+ └── 05_gower_distance.R
+ └── 06_pam.R
+ └── 05_compare_gruops.R
 
 results/
  ├── figures/          # plots and visualizations

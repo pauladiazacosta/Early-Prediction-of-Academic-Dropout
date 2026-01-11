@@ -18,23 +18,21 @@ Processed data:
 
 ## Repository structure
 data/
- └── processed/        # cleaned dataset used in the analysis
+ └── processed/
+     └── data_v2.csv        # cleaned dataset used in the analysis
 
 code/
- ├── 01_eda.R
- ├── 02_logistic_regression.R
- ├── 03_decision_tree.R
- ├── 04_random_forest.R
- └── 05_gower_distance.R
- └── 06_pam.R
- └── 05_compare_gruops.R
+ ├── 01_eda/                # exploratory data analysis
+ ├── 02_logistic_regression/# logistic regression models
+ ├── 03_decision_tree/      # decision tree models
+ ├── 04_random_forest/      # random forest models
+ ├── 05_gower_distance/     # computation of Gower distance
+ ├── 06_pam/                # PAM clustering
+ └── 07_compare_groups/     # descriptive comparison of groups
 
 results/
- ├── figures/          # plots and visualizations
- └── tables/           # result tables
-
-README.md
-LICENSE
+ ├── figures/               # plots and visualizations
+ └── tables/                # result tables
 
 ## Requirements
 - R (version >= 4.0)
